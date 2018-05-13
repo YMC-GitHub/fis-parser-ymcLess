@@ -1,0 +1,23 @@
+﻿{
+    "name" : "fis-parser-ymcless",
+    "description" : "A parser for fis to compile less file.",
+    "version" : "0.0.1",
+    "author" : "hualei",
+    "homepage" : "https://github.com/YMC-GitHub/fis-parser-ymcLess",
+    "keywords": [ "fis", "less","ymc" ],
+    "license": "MIT",
+    "main" : "index.js",
+    "engines" : {
+        "node" : ">= 8.9.4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YMC-GitHub/fis-parser-ymcLess.git"
+    },
+    "scripts" : {
+        "test" : "mocha test/ut --recursive"
+    },
+    "dependencies" : {
+        "less" : "2.7.1"
+    }
+}
