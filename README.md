@@ -25,7 +25,7 @@ fis.config.merge({
 
 ## reference
 
-[the programmatic usage of less](http://lesscss.org/usage/#programmatic-usage)
+[the programmatic usage of less ———— written by less home](http://lesscss.org/usage/#programmatic-usage)
 
-[the building of front-end developing envirenment](https://github.com/fouber/blog/issues/2)
+[the building of front-end developing envirenment ———— written by Yunlong Zhang](https://github.com/fouber/blog/issues/2)
 
