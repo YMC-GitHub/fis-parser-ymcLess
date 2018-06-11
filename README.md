@@ -20,8 +20,12 @@ fis.config.merge({
 });
 ```
 
+## future
+🕺it may be good passing less options with a file.
+
 ## reference
 
 [the programmatic usage of less](http://lesscss.org/usage/#programmatic-usage)
 
 [the building of front-end developing envirenment](https://github.com/fouber/blog/issues/2)
+
