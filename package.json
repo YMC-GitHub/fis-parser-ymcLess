@@ -1,23 +1,27 @@
-﻿{
-    "name" : "fis-parser-ymcless",
-    "description" : "A parser for fis to compile less file.",
-    "version" : "1.0.0",
-    "author" : "yemiancheng <ymc.github@gmail.com> (https://github.com/YMC-GitHub)",
-    "homepage" : "https://github.com/YMC-GitHub/fis-parser-ymcLess#readme",
+{
+    "name": "fis-parser-less-hh",
+    "description": "A parser for fis to compile less file.",
+    "version": "1.0.0",
+    "author": "yemiancheng <ymc.github@gmail.com> (https://github.com/YMC-GitHub)",
+    "homepage": "https://github.com/YMC-GitHub/fis-parser-ymcLess#readme",
     "bugs": {
         "url": "https://github.com/ymc-github/fis-parser-ymcLess/issues"
-      },
-    "keywords": [ "fis", "less","ymc" ],
+    },
+    "keywords": [
+        "fis",
+        "less",
+        "ymc"
+    ],
     "license": "MIT",
-    "main" : "index.js",
+    "main": "index.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/YMC-GitHub/fis-parser-ymcLess.git"
     },
-    "scripts" : {
-        "test" : "exit 0"
+    "scripts": {
+        "test": "exit 0"
     },
-    "dependencies" : {
-        "less" : "2.7.1"
+    "dependencies": {
+        "less": "2.7.1"
     }
 }
