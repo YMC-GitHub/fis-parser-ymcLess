@@ -1,7 +1,7 @@
 {
     "name": "fis-parser-less-hh",
     "description": "A parser for fis to compile less file.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "yemiancheng <ymc.github@gmail.com> (https://github.com/YMC-GitHub)",
     "homepage": "https://github.com/YMC-GitHub/fis-parser-ymcLess#readme",
     "bugs": {
