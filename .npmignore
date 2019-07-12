@@ -1,0 +1,21 @@
+
+# for test
+test.js
+# for style
+.editorconfig
+# for ci
+.travis.yml
+# for tool
+tool/
+# for note
+note**.md
+shields-status.md
+# for data
+data/
+# for vscode
+.vscode/
+# for git commit lint
+commitlint.config.js
+angular-type-enum/
+# for eslint lint
+.eslintrc.js
