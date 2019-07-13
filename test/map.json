@@ -1,0 +1,9 @@
+{
+    "res": {
+        "test.less": {
+            "uri": "/test.css",
+            "type": "css"
+        }
+    },
+    "pkg": {}
+}
