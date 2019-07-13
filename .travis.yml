@@ -31,6 +31,7 @@ script:
   - echo "now is in script Phase"
   - ./node_modules/.bin/lessc --version
   - ./node_modules/.bin/fis --version
+  - ./node_modules/.bin/fis release --root test --dest ./test
   - npm run test --silent
 after_success:
   - echo "now is in after_success Phase"

@@ -19,7 +19,7 @@
         "url": "https://github.com/YMC-GitHub/fis-parser-ymcLess.git"
     },
     "scripts": {
-        "test": "exit 0"
+        "test": "node ./test/index.js"
     },
     "devDependencies": {},
     "peerDependencies": {
