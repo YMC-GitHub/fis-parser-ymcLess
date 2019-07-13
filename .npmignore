@@ -1,6 +1,6 @@
 
 # for test
-test.js
+test/
 # for style
 .editorconfig
 # for ci
@@ -9,13 +9,5 @@ test.js
 tool/
 # for note
 note**.md
-shields-status.md
-# for data
-data/
 # for vscode
 .vscode/
-# for git commit lint
-commitlint.config.js
-angular-type-enum/
-# for eslint lint
-.eslintrc.js
